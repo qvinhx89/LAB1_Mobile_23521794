@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework 2 Sentiment</string>
+    <string name="hint_input">Nhap cau can phan tich...</string>
+    <string name="btn_analyze">Analyze</string>
+    <string name="title">Sentiment Analysis Report</string>
+    <string name="subtitle">Nhap noi dung va nhan ket qua phan loai theo thoi gian thuc</string>
+    <string name="section_input">Input Sentence</string>
+    <string name="section_result">Prediction Summary</string>
+    <string name="initial_label">Chua co ket qua</string>
+    <string name="hint_quality">Mo ta ro cam xuc se cho ket qua on dinh hon</string>
+    <string name="loading">Dang phan tich...</string>
+    <string name="label_result">Label</string>
+    <string name="label_confidence">Do tin cay</string>
+    <string name="label_explain">Nhan xet</string>
+</resources>

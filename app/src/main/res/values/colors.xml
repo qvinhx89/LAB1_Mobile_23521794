@@ -1,0 +1,16 @@
+<resources>
+    <color name="primary">#0B3C5D</color>
+    <color name="primary_dark">#07293F</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="background">#F4F8FC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#0F172A</color>
+    <color name="muted_text">#475569</color>
+
+    <color name="positive_bg">#DCFCE7</color>
+    <color name="positive_fg">#166534</color>
+    <color name="neutral_bg">#E2E8F0</color>
+    <color name="neutral_fg">#334155</color>
+    <color name="negative_bg">#FEE2E2</color>
+    <color name="negative_fg">#991B1B</color>
+</resources>

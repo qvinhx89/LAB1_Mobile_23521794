@@ -1,0 +1,3 @@
+# Copy this file to local.properties and fill values
+sdk.dir=C\\:\\Users\\<YOUR_USER>\\AppData\\Local\\Android\\Sdk
+GEMINI_API_KEY=YOUR_API_KEY_HERE

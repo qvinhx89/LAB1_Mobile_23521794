@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.homework2sentiment.app-debug-36:/drawable_bg_screen_gradient.xml.flat",
+        "source": "com.example.homework2sentiment.app-main-38:/drawable/bg_screen_gradient.xml"
+    },
+    {
+        "merged": "com.example.homework2sentiment.app-debug-36:/drawable_ic_sentiment.xml.flat",
+        "source": "com.example.homework2sentiment.app-main-38:/drawable/ic_sentiment.xml"
+    },
+    {
+        "merged": "com.example.homework2sentiment.app-debug-36:/drawable_bg_hero.xml.flat",
+        "source": "com.example.homework2sentiment.app-main-38:/drawable/bg_hero.xml"
+    },
+    {
+        "merged": "com.example.homework2sentiment.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.example.homework2sentiment.app-main-38:/layout/activity_main.xml"
+    }
+]

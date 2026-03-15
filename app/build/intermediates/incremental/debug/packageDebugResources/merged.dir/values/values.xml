@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background">#F4F8FC</color>
+    <color name="muted_text">#475569</color>
+    <color name="negative_bg">#FEE2E2</color>
+    <color name="negative_fg">#991B1B</color>
+    <color name="neutral_bg">#E2E8F0</color>
+    <color name="neutral_fg">#334155</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_surface">#0F172A</color>
+    <color name="positive_bg">#DCFCE7</color>
+    <color name="positive_fg">#166534</color>
+    <color name="primary">#0B3C5D</color>
+    <color name="primary_dark">#07293F</color>
+    <color name="surface">#FFFFFF</color>
+    <string name="app_name">Homework 2 Sentiment</string>
+    <string name="btn_analyze">Analyze</string>
+    <string name="hint_input">Nhap cau can phan tich...</string>
+    <string name="hint_quality">Mo ta ro cam xuc se cho ket qua on dinh hon</string>
+    <string name="initial_label">Chua co ket qua</string>
+    <string name="label_confidence">Do tin cay</string>
+    <string name="label_explain">Nhan xet</string>
+    <string name="label_result">Label</string>
+    <string name="loading">Dang phan tich...</string>
+    <string name="section_input">Input Sentence</string>
+    <string name="section_result">Prediction Summary</string>
+    <string name="subtitle">Nhap noi dung va nhan ket qua phan loai theo thoi gian thuc</string>
+    <string name="title">Sentiment Analysis Report</string>
+    <style name="Theme.Homework2Sentiment" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+    </style>
+</resources>
